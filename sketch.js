@@ -84,7 +84,7 @@ function setup() {
   blink.frameDelay = 20;
   eat.frameDelay = 20;
 
-  bunny = createSprite(230,620,100,100);
+  bunny = createSprite(425,620,100,100);
   bunny.scale = 0.2;
 
   bunny.addAnimation('blinking',blink);
